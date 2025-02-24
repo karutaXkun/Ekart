@@ -1,4 +1,4 @@
-# Spring Boot Shopping Cart Web App
+# Spring Boot Shopping Cart Web App (practice deployment)
 
 ## About
 
